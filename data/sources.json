@@ -1,0 +1,22 @@
+[
+  {
+    "name": "УНІАН",
+    "url": "https://rss.unian.net/site/news_ukr.rss",
+    "enabled": true
+  },
+  {
+    "name": "Українська правда",
+    "url": "https://www.pravda.com.ua/rss/",
+    "enabled": true
+  },
+  {
+    "name": "РБК-Україна",
+    "url": "https://www.rbc.ua/static/rss/all.ukr.rss.xml",
+    "enabled": true
+  },
+  {
+    "name": "НВ",
+    "url": "https://nv.ua/rss/all.xml",
+    "enabled": true
+  }
+]
