@@ -21,7 +21,7 @@ import storage
 BOT_TOKEN = "8887397564:AAFH19UK93YaOv6aWbhtZl45fqei2b9bnIY"
 
 # Посилання на веб-панель після деплою на Render (розділ "Как обновить ссылку" в інструкції)
-WEBAPP_URL = "https://example.com"
+WEBAPP_URL = "https://rezerv-ua-bot-1.onrender.com"
 
 NEWS_CHECK_INTERVAL_SECONDS = 600  # раз на 10 хвилин
 
